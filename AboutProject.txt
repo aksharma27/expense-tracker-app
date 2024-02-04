@@ -1,0 +1,4 @@
+BACKEND : 
+    packages installed : 
+        1) express, cors(so that we don't have any problem accessing our server --> cross origin servers), mongoose dotenv
+        
